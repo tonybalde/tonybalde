@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tonybalde
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning HTML & CSS
+- 🌱 I’m currently learning HTML & CSS & JavaScript
 - 📫 How to reach me: www.facebook.com/tonybalde
 
 <!---
