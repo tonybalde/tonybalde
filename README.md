@@ -1,9 +1,9 @@
 <!---
 tonybalde/tonybalde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.  👋
+You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center">Hi, <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAj/hi.gif"> I'm Tony Baldessari</h1>
+<h1 align="center">Hi, <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAj/hi.gif" height="20px"> I'm Tony Baldessari</h1>
 <h3 align="center">A passionate developer from Argentina</h3>
  
 - 👀 I’m interested in programming.
