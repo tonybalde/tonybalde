@@ -6,9 +6,9 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi,<img src="https://media.tenor.com/Wx9IEmZZXSoAAAAj/hi.gif" height="80px"> I'm Antonio Baldessari</h1>
 <h3 align="center">A passionate Web Developer from Argentina</h3>
  
-- 👀 I’m interested in programming.
+- 👀 I’m interested in coding.
 
-- 🌱 I’m currently learning **HTML, CSS and JavaScript**
+- 🌱 I’m currently learning **HTML, CSS and JavaScript** in The Odin Project =)
 
 - 📫 How to reach me **tonybalde@hotmail.com**
 
@@ -18,7 +18,6 @@ You can click the Preview link to take a look at your changes.
 <p align="left">
 <a href="https://twitter.com/tonybaldev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tonybaldessari" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/antonio-baldessari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Antonio Baldessari" height="30" width="40" /></a>
-<a href="https://fb.com/tonybalde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tonybalde" height="30" width="40" /></a>
 <a href="https://instagram.com/tonybaldev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tonyburato" height="30" width="40" /></a>
 </p>
 
