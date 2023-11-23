@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
  
 - 👀 I’m interested in coding.
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, React** in The Odin Project =)
+- 🌱 I’m currently learning **NodeJS** in The Odin Project =)
 
 - 📫 How to reach me **tonybalde@hotmail.com**
 
