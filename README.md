@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning **NodeJS** in The Odin Project =)
 
-- 📫 How to reach me **tonybalde@hotmail.com**
+- 📫 How to reach me **antoniobaldessari@outlook.com**
 
 - ⚡ Fun fact **I love listening to music while I'm studying/working**
 
