@@ -1,4 +1,4 @@
-# Hi[](https://c.tenor.com/CU-PX1m0egYAAAAC/tenor.gif) , I'm Tony Baldessari
+# Hi👋, I'm Tony Baldessari
 
 ## A passionate Full-Stack developer from Argentina
 
