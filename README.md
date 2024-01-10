@@ -2,7 +2,13 @@
 
 ## A passionate Full-Stack developer from Argentina
 
-### Contact me at: tonybaldessari@outlook.com
+## About Me:
+
+🌱 I’m currently learning Web Development
+
+📫 How to reach me: tonybaldessari@outlook.com
+
+⚡ Fun fact :- Nature and Music🎵 are the reasons to live.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/antonio-baldessari) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@TonyBalDev) 
