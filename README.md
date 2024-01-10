@@ -1,6 +1,7 @@
 # 💫 About Me:
-A passionate Full-Stack developer from Argentina!
+## A passionate Full-Stack developer from Argentina!
 
+### contact me at: tonybaldessari@outlook.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/antonio-baldessari) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@TonyBalDev) 
