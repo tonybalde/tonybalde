@@ -1,10 +1,10 @@
 # Hi👋, I'm Tony Baldessari
 
-## A passionate Full-Stack developer from Argentina
+## A passionate Front-end developer from Argentina
 
 ## About Me:
 
-🌱 I’m currently learning Web Development
+🌱 I’m currently learning UI Design by myself
 
 📫 How to reach me: tonybaldessari@outlook.com
 
